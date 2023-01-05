@@ -1,7 +1,0 @@
-- go to smuggler
-- repaer itself if not open smuggler
-- search for green bar's with money or cargo
-- if first exchange it will select remain box
-- if none left it wil use attempt
-- it stops moment you reight attempt with 40 gold
-- it exit after search 40 gold
